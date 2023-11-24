@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "p3QEV2Tq0XQV2wgbxBbycSrD8yusUeLfwg1UuR5h7ab3GE176tCEFnfeJQKaDL4arrcj9JpLnRLHlBXki34Qjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wisdo\\OneDrive\\Desktop\\Explore.API\\Explore.API\\Explore.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wisdo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\wisdo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\wisdo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\wisdo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\wisdo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\wisdo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
